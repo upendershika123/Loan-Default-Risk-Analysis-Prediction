@@ -160,7 +160,4 @@ Upender Shika
 🔗 https://github.com/upendershika123
 
 css
-Copy
-Edit
-
 If you want, I can also help generate a **requirements.txt** file or a sample script to get you started!
