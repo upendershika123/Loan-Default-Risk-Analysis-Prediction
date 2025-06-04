@@ -167,8 +167,8 @@ Please submit a Pull Request or open an Issue to discuss your ideas.
 
 🧑‍💻 Author
 Upender Shika
-📧 (your-email@example.com)
-🔗 GitHub
+📧 (upendershika206@gmail.com)
+🔗 https://github.com/upendershika123
 
 css
 Copy
