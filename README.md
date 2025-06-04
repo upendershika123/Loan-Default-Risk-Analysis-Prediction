@@ -30,8 +30,6 @@ Loan-Default-Risk-Analysis-Prediction/
 └── .gitignore # Files and folders to exclude from Git tracking
 
 yaml
-Copy
-Edit
 
 ---
 
@@ -83,21 +81,15 @@ The `src/prediction.py` script demonstrates how to use the trained model to pred
 (Optional) Create and activate a virtual environment
 
 bash
-Copy
-Edit
 python -m venv env
 source env/bin/activate      # On Windows: env\Scripts\activate
 Install dependencies
 
 bash
-Copy
-Edit
 pip install -r requirements.txt
 Run Jupyter notebook for EDA and experimentation
 
 bash
-Copy
-Edit
 jupyter notebook notebooks/loan_default_EDA.ipynb
 Run scripts for preprocessing, training, and prediction
 
@@ -119,8 +111,7 @@ Default	Target variable (1 if defaulted, 0 otherwise)
 
 📈 Sample Output
 mathematica
-Copy
-Edit
+
 Loan Default Risk Prediction for Applicant:
 
 Predicted Risk: HIGH
@@ -132,8 +123,7 @@ Key factors influencing prediction:
 - Short Employment Duration
 📦 requirements.txt
 nginx
-Copy
-Edit
+
 pandas
 numpy
 scikit-learn
@@ -143,8 +133,7 @@ xgboost
 jupyter
 🧾 .gitignore
 markdown
-Copy
-Edit
+
 __pycache__/
 *.pyc
 *.pyo
